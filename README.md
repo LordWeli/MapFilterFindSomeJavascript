@@ -1,4 +1,4 @@
-# MapFilterFindSome()
+# MapFilterFindSomeJavascript
 
 ## Estudo dos métodos map(), filter(), find() e some() do Javascript.
 
@@ -170,4 +170,4 @@ Conteúdo
 ```
 
 ## <a name="licenca"></a> Licença
-  MapFilterFind is released under the [MIT License](https://opensource.org/licenses/MIT).
+  MapFilterFindSomeJavascript is released under the [MIT License](https://opensource.org/licenses/MIT).
